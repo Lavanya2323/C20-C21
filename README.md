@@ -1,2 +1,2 @@
-# C20-C21
-User define functions isTouching , collide, bounceOff. Own library
+# p5.play-boilerplate
+Boiler plate for p5.play
